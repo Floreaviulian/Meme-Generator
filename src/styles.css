@@ -23,8 +23,8 @@ header > p {
 
 .meme {
   position: relative;
-  width: 50%;
-  margin: auto;
+ display: flex;
+  justify-content: center;
 }
 
 .meme > img {
